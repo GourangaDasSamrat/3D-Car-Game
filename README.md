@@ -33,9 +33,16 @@ A thrilling 3D car racing game built with modern web technologies. Experience sm
 <div align="center">
 <table>
 <tr>
+
+
+   
+
+ [![Watch the video](https://img.youtube.com/vi/aQ0tpleD_kE/0.jpg)](https://youtu.be/aQ0tpleD_kE)
+
+
+
 <td>
 <!-- Demo video will be added separately on GitHub -->
-<i>🎥 Gameplay demo video coming soon!</i>
 </td>
 </tr>
 </table>
